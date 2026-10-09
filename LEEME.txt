@@ -1,0 +1,22 @@
+CELESTE — CASA DEL ÁRBOL ENCANTADO (CON CANCIÓN NUEVA)
+====================================================
+
+ABRIR:
+1. Descomprime TODO el ZIP.
+2. Abre celeste/index.html en Chrome, Edge, Safari o Firefox.
+3. Toca la puerta de la casita. La animación abre la invitación
+   y la canción comienza gracias a ese toque.
+
+MÚSICA:
+- Se ha reemplazado la música anterior por el MP3 enviado por el usuario.
+- La pista está incrustada también en index.html, de modo que la página
+  NO necesita encontrar assets/musica1.mp3 para sonar. El archivo sigue
+  disponible físicamente en la carpeta assets.
+- El botón con la nota musical permite detener y reanudar la canción.
+- El botón «Reproductor ♫» despliega los controles nativos del MISMO audio,
+  sin crear una segunda pista ni errores de ruta.
+- El navegador requiere tocar antes de permitir reproducir música.
+  Comprueba también el volumen multimedia del dispositivo.
+
+Se mantienen la casa del árbol animada, el bosque encantado, el hada,
+la apertura del libro y el carrusel de fotografías.
